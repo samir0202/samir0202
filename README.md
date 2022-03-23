@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samir Kumar Dubey
 - 👀 I’m interested in Computer Application System.
-- 🌱 I’m currently learning salesforce.
-- 💞️ I’m looking to collaborate on IT world.
+- 🌱 I’m currently working in mindtree ltd.
+- 💞️ I’m looking to change the world via IT.
 - 📫 https://www.linkedin.com/in/samirkumar02/
 
 
